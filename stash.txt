@@ -1,0 +1,1 @@
+Stash in git helps developers, without having discard or commit changes that aren't ready
